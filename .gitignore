@@ -1,9 +1,27 @@
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+
 # Ignorar ambientes virtuais
 venv/
-env/
 
+# Ignorar executáveis e ferramentas locais
+chromedriver
+
+# Ignorar arquivos temporários e específicos do sistema
+*.tmp
+*.log
+*.swp
+*.DS_Store
+
+# Ignorar documentos de texto e Word
+Post Linkedin.docx
+*.docx
+
+# Ignorar arquivos do Excel ou Power BI
+Vagas Linkedin em Portugal.xlsx
+*.xlsx
 *.pbix
 
-assets
-
-chromedriver.exe
+# Ignorar pasta de ativos (assets)
+assets/
