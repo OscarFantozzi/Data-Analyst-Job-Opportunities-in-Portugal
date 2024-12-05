@@ -68,8 +68,8 @@ pip install selenium pandas sqlalchemy
 #### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/linkedin_job_scraper.git
-   cd linkedin_job_scraper
+   git clone https://github.com/YourUsername/linkedin-job-scraper.git
+   cd linkedin-job-scraper
    ```
 
 2. Set up your database:
